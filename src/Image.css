@@ -1,0 +1,6 @@
+.pic{
+    display: flex;
+    justify-content: left;
+    border: 2px solid orange;
+    background-color: whitesmoke;
+}
